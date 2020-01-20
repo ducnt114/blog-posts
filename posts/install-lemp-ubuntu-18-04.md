@@ -4,12 +4,6 @@ date: 2020-01-04T23:49:47+07:00
 draft: true
 ---
 
-
-
-https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-ubuntu-18-04
-
-https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-ubuntu-18-04
-
 ## Giới thiệu
 
 LEMP stack là bộ các phần mềm để xây dựng và triển khai các trang web động, bao gồm:
