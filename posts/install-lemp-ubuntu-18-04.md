@@ -1,8 +1,8 @@
 ---
 title: "Cài đặt Nginx, PHP, MySQL (LEMP stack) trên Ubuntu 18.04"
 date: 2020-01-04T23:49:47+07:00
-draft: true
-thumbnail: "https://duczk.com/lemp.jpg"
+categories: [tutorial]
+tags: [devops,linux,nginx,php,mysql]
 ---
 
 ![lemp](https://duczk.com/lemp.jpg)
