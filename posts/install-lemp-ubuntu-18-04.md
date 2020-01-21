@@ -4,6 +4,8 @@ date: 2020-01-04T23:49:47+07:00
 draft: true
 ---
 
+![lemp](https://duczk.com/lemp.jpg)
+
 ## Giới thiệu
 
 LEMP stack là bộ các phần mềm để xây dựng và triển khai các trang web động, bao gồm:
