@@ -10,10 +10,15 @@ Note lại quá trình phỏng vấn WQ.
 Vài tuần trước mình đã từ chối offer của WQ, đây có lẽ là quyết định khó khăn nhất trong career path của mình từ trước đến giờ. Mình thấy nên ghi lại để xem như 1 kỉ niệm của bản thân.
 
 Đầu tiên là vào khoảng cuối tháng 7, 1 bạn headhunt nhắn tin cho mình trên LinkedIn, nói là bên WQ đang open vị trí Data Engineer, cụ thể là cho team Data Integrity. Vì trước đó mình cũng rất quan tâm đến công ty WQ, nghe nói là lương thuộc top đầu ở Hà Nội nên sau khi đọc JD thì mình cũng gửi CV để apply thử, lúc này mình cũng không hi vọng gì nhiều vì chưa ôn tập kĩ, coi như apply lấy kinh nghiệm.
+
 Sau khi gửi CV thì bạn headhunt có gọi điện cho mình để phone interview, lấy một số thông tin cơ bản và kiểm tra về trình độ tiếng Anh, chủ yếu là xem có giao tiếp ổn đủ để phỏng vấn không. Sau đó bạn này nói mình ok và sẽ gửi CV cho WQ để process tiếp.
+
 Khoảng 1 tuần sau thì bên WQ có phản hồi, họ gửi mình 1 bài test online trên Hackerrank và hẹn làm trong 1 tuần. Lúc họ gửi là khoảng thứ 2/3 gì đó, nên mình tính luôn là sẽ để cuối tuần mới làm, dành thời gian mấy hôm còn lại để ôn luyện các bài lập trình. Chủ yếu là mình đọc giải trên mấy trang như hackerrank, leetcode, geekforgeek chứ không làm hết các bài.
+
 Đến chủ nhật thì mình bắt đầu mở bài họ gửi ra làm. Có 5 câu hỏi và làm trong vòng 2 tiếng. Trong số này thì mình thấy có 2 câu rất dễ, kiểu cho điểm, còn lại 1 câu trung bình và 2 câu khó hơn. Ngôn ngữ lập trình thì có 1 câu bắt buộc làm bằng python, 1 câu sql, còn lại thì tùy chọn ngôn ngữ - mình đã chọn golang cho quen tay.
+
 May mắn là submit được cả 5 câu nên mình biết sẽ pass vòng này. Chờ process các vòng tiếp theo.
+
 Cũng khoảng 3-4 ngày sau thì bên WQ báo mình pass vòng test online, tiếp đến sẽ là 1 buổi interview với anh teamlead của Data Integrity. Vòng này anh đó hỏi mình các kiến thức như sau (không nhớ chính xác hết)
 - Các kiến thức cơ bản về Python: các kiểu dữ liệu, design pattern, threading, ...
 - 1 câu hỏi logic: cần đưa 4 người qua cầu (giống bài toán đưa thày qua sông)
