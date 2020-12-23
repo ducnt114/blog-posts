@@ -3,6 +3,7 @@ title: "Phỏng vấn WQ"
 date: 2020-09-24T23:42:47+07:00
 categories: [life]
 tags: [life,interview]
+draft: true
 ---
 
 Note lại quá trình phỏng vấn WQ.

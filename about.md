@@ -10,7 +10,8 @@ Xin chào, tôi là Đức, hiện đang là software engineer tại VinID.
 
 Liên hệ với tôi:
 
-* Email: trungduc110492@gmail.com
+* Email: ducnt114 [at] gmail.com
 * Facebook: https://www.facebook.com/trungduc110492
 * Github: https://github.com/ducnt114
+* Website: https://duczk.com
 
