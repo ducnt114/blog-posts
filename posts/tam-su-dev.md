@@ -18,3 +18,5 @@ Mình mới được đôn lên lead ở cấp độ cao hơn, bắt đầu cả
 Khi anh em xin nghỉ, mình đều ngồi nói chuyện. Có lúc thì khuyên nên tạm thời đừng nghỉ vội, ở lại chờ thêm, có lúc nhận ra họ có 1 cơ hội tốt hơn thì mình đã nói ra đi là tốt, mình ủng hộ.
 
 Sau 5-6 năm đi làm, mình nhận ra sự quan trọng của các mối quan hệ với đồng nghiệp trong network, vì đi loanh quanh các công ty cuối cùng rồi cũng gặp toàn người quen, thị trường ở Hà Nội quá nhỏ. Giữ liên hệ để khi cần thì kéo anh em về làm cùng, hoặc được anh em kéo đi khi có cơ hội tốt.
+
+Cuối cùng, người ra đi thì luôn vui sướng, chỉ có người ở lại là buồn.
