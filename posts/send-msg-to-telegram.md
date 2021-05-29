@@ -1,24 +1,23 @@
 ---
 title: "How to send message to Telegram group"
 date: 2021-02-15T16:46:47+07:00
-categories: [coding,tutorial]
-tags: [coding,tutorial]
+categories: [coding, tutorial]
+tags: [coding, tutorial]
 ---
 
 ## Create a Bot
 
 Send message `/newbot` to BotFather
 
-![create_bot](https://duczk.com/telegram_1.png)
+![create_bot](/telegram_1.png)
 
 ## Create a group chat and add Bot to group
 
-![create_group](https://duczk.com/telegram_2.png)
-
+![create_group](/telegram_2.png)
 
 ## Grant permission to Bot
 
-![grant_permission](https://duczk.com/telegram_3.png)
+![grant_permission](/telegram_3.png)
 
 ## Get chat group id
 

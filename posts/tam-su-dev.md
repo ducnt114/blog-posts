@@ -3,6 +3,7 @@ title: "Tâm sự dev"
 date: 2021-04-09T22:54:46+07:00
 categories: [life]
 tags: [life]
+draft: true
 ---
 
 Những ngày tháng 4, mùa tuyển dụng.
